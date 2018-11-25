@@ -12,6 +12,7 @@ nav{
   margin-right: 34%;
   margin-left: 34%;
   padding-top: .6%;
+  margin-top: 0;
 } 
 
 nav a{
@@ -37,7 +38,7 @@ h1{
   margin-bottom: 0;
 }
 
-img{
+#post img{
   border-radius: 10px;
 }
 
@@ -87,4 +88,13 @@ p{
 #const{
   text-align: center;
   margin-top: 2%;
+}
+
+#logo{
+  text-align: center;
+  margin-bottom: 0;
+}
+
+#logo img{
+  margin-bottom: 0;
 }
